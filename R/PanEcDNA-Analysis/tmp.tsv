@@ -1,9 +1,0 @@
-study	tumor12	amplicon_classification	n_samples_with_amplicon	n_amplicons	sum_kataegis_per_amplicon	median_kataegis_per_amplicon_in_samples_with_amplicon	mean_kataegis_per_amplicon_in_samples_with_amplicon
-GLASS	tumor1	ecDNA	20	23	9	0	0.391304347826087
-GLASS	tumor2	ecDNA	19	20	17	0	0.85
-GLASS	tumor1	ChrAmp	18	187	13	0	0.06951871657754011
-GLASS	tumor2	ChrAmp	15	59	8	0	0.13559322033898305
-HMF	tumor1	ecDNA	27	30	76	1	2.533333333333333
-HMF	tumor2	ecDNA	25	39	53	0	1.358974358974359
-HMF	tumor1	ChrAmp	41	96	26	0	0.2708333333333333
-HMF	tumor2	ChrAmp	48	131	39	0	0.29770992366412213
